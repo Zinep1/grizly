@@ -1,0 +1,17 @@
+display: block;
+    margin-bottom: 20px;
+}
+
+aside {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 90px;
+    background-color: grey;
+    width: 250px;
+    text-align: center;
+    padding: 5px;
+}
+
+span {
+    color: blueviolet
+}
